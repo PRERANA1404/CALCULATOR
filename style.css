@@ -1,0 +1,40 @@
+* {
+    background-color: #005;
+}
+
+header {
+    text-align: center;
+    color: #971b1b;
+}
+
+table {
+    border: 10px solid rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="text"] {
+    padding: 10px 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 1px;
+    border: 10px solid rgba(0, 0, 0, 0.474);
+    background-color: #ffffff70;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 10px 30px;
+    background-color: #142f44;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+}
+
+input[type="button"]:hover {
+    background-color: #26b12b;
+    color: rgba(202, 234, 17, 0.549);
+}
